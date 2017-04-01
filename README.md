@@ -27,5 +27,5 @@ How to run:
   Download all css, jsp, and .java files. 
 					
   When you run in neatbeans/eclipse, execute the file "Actuary.Home"  
-					
-	Login or register in your system. Then you can upload files on cloud and share them.
+
+  Login or register in your system. Then you can upload files on cloud and share them.
